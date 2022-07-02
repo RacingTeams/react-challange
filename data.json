@@ -2,8 +2,8 @@
     "data": [
         {
             "_id": "01",
-            "name": "Ribeira Charming Duplex",
-            "summary": "Fantastic duplex apartment with three bedrooms, located in the historic area of Porto, Ribeira (Cube)...",
+            "name": "Reprehenderit laboris",
+            "summary": "Do esse culpa nostrud in dolore sunt enim.",
             "interaction": "Cot - 10 € / night Dog - € 7,5 / night",
             "house_rules": "Make the house your home...",
             "property_type": "House",
@@ -231,11 +231,11 @@
         },
         {
             "_id": "02",
-            "name": "Ribeira Charming Duplex",
-            "summary": "Fantastic duplex apartment with three bedrooms, located in the historic area of Porto, Ribeira (Cube)...",
+            "name": "Deserunt eu labore",
+            "summary": "Ex ex irure consequat eiusmod ex voluptate deserunt.",
             "interaction": "Cot - 10 € / night Dog - € 7,5 / night",
             "house_rules": "Make the house your home...",
-            "property_type": "House",
+            "property_type": "Hotel",
             "room_type": "Entire home/apt",
             "bed_type": "Real Bed",
             "minimum_nights": "2",
@@ -311,7 +311,7 @@
                 "Waterfront"
             ],
             "price": {
-                "$numberDecimal": "80.00"
+                "$numberDecimal": "20.00"
             },
             "security_deposit": {
                 "$numberDecimal": "200.00"
@@ -460,8 +460,8 @@
         },
         {
             "_id": "03",
-            "name": "Ribeira Charming Duplex",
-            "summary": "Fantastic duplex apartment with three bedrooms, located in the historic area of Porto, Ribeira (Cube)...",
+            "name": "Commodo ad mollit",
+            "summary": "Ex exercitation eu eu fugiat nostrud cillum.",
             "interaction": "Cot - 10 € / night Dog - € 7,5 / night",
             "house_rules": "Make the house your home...",
             "property_type": "House",
@@ -540,7 +540,7 @@
                 "Waterfront"
             ],
             "price": {
-                "$numberDecimal": "80.00"
+                "$numberDecimal": "30.00"
             },
             "security_deposit": {
                 "$numberDecimal": "200.00"
@@ -689,11 +689,11 @@
         },
         {
             "_id": "04",
-            "name": "Ribeira Charming Duplex",
-            "summary": "Fantastic duplex apartment with three bedrooms, located in the historic area of Porto, Ribeira (Cube)...",
+            "name": "Cillum culpa sit",
+            "summary": "Aute nisi elit excepteur id pariatur id tempor veniam minim consectetur enim.",
             "interaction": "Cot - 10 € / night Dog - € 7,5 / night",
             "house_rules": "Make the house your home...",
-            "property_type": "House",
+            "property_type": "Hotel",
             "room_type": "Entire home/apt",
             "bed_type": "Real Bed",
             "minimum_nights": "2",
@@ -918,11 +918,11 @@
         },
         {
             "_id": "05",
-            "name": "Ribeira Charming Duplex",
-            "summary": "Fantastic duplex apartment with three bedrooms, located in the historic area of Porto, Ribeira (Cube)...",
+            "name": "Non laboris aute",
+            "summary": "Exercitation qui ipsum do amet excepteur eiusmod.",
             "interaction": "Cot - 10 € / night Dog - € 7,5 / night",
             "house_rules": "Make the house your home...",
-            "property_type": "House",
+            "property_type": "Camping",
             "room_type": "Entire home/apt",
             "bed_type": "Real Bed",
             "minimum_nights": "2",
@@ -998,7 +998,7 @@
                 "Waterfront"
             ],
             "price": {
-                "$numberDecimal": "80.00"
+                "$numberDecimal": "30.00"
             },
             "security_deposit": {
                 "$numberDecimal": "200.00"
@@ -1147,11 +1147,11 @@
         },
         {
             "_id": "06",
-            "name": "Ribeira Charming Duplex",
-            "summary": "Fantastic duplex apartment with three bedrooms, located in the historic area of Porto, Ribeira (Cube)...",
+            "name": "Fugiat culpa irure",
+            "summary": "Incididunt et id ad consequat do eiusmod labore dolore dolore dolore commodo.",
             "interaction": "Cot - 10 € / night Dog - € 7,5 / night",
             "house_rules": "Make the house your home...",
-            "property_type": "House",
+            "property_type": "Camping",
             "room_type": "Entire home/apt",
             "bed_type": "Real Bed",
             "minimum_nights": "2",
@@ -1227,7 +1227,7 @@
                 "Waterfront"
             ],
             "price": {
-                "$numberDecimal": "80.00"
+                "$numberDecimal": "180.00"
             },
             "security_deposit": {
                 "$numberDecimal": "200.00"
@@ -1376,11 +1376,11 @@
         },
         {
             "_id": "07",
-            "name": "Ribeira Charming Duplex",
-            "summary": "Fantastic duplex apartment with three bedrooms, located in the historic area of Porto, Ribeira (Cube)...",
+            "name": "Lorem minim quis Lorem irure.",
+            "summary": "Sunt nulla anim amet tempor nulla veniam.",
             "interaction": "Cot - 10 € / night Dog - € 7,5 / night",
             "house_rules": "Make the house your home...",
-            "property_type": "House",
+            "property_type": "Apartment",
             "room_type": "Entire home/apt",
             "bed_type": "Real Bed",
             "minimum_nights": "2",
@@ -1456,7 +1456,7 @@
                 "Waterfront"
             ],
             "price": {
-                "$numberDecimal": "80.00"
+                "$numberDecimal": "90.00"
             },
             "security_deposit": {
                 "$numberDecimal": "200.00"
@@ -1605,11 +1605,11 @@
         },
         {
             "_id": "08",
-            "name": "Ribeira Charming Duplex",
-            "summary": "Fantastic duplex apartment with three bedrooms, located in the historic area of Porto, Ribeira (Cube)...",
+            "name": "Quis et labore laboris",
+            "summary": "Elit irure pariatur do adipisicing minim eu minim dolore ipsum quis culpa.",
             "interaction": "Cot - 10 € / night Dog - € 7,5 / night",
             "house_rules": "Make the house your home...",
-            "property_type": "House",
+            "property_type": "Surfhouse",
             "room_type": "Entire home/apt",
             "bed_type": "Real Bed",
             "minimum_nights": "2",
@@ -1685,7 +1685,7 @@
                 "Waterfront"
             ],
             "price": {
-                "$numberDecimal": "80.00"
+                "$numberDecimal": "60.00"
             },
             "security_deposit": {
                 "$numberDecimal": "200.00"
@@ -1834,11 +1834,11 @@
         },
         {
             "_id": "09",
-            "name": "Ribeira Charming Duplex",
-            "summary": "Fantastic duplex apartment with three bedrooms, located in the historic area of Porto, Ribeira (Cube)...",
+            "name": "Ipsum cupidatat qui",
+            "summary": "Ut enim sint do consectetur quis dolor ea sit.",
             "interaction": "Cot - 10 € / night Dog - € 7,5 / night",
             "house_rules": "Make the house your home...",
-            "property_type": "House",
+            "property_type": "Ski",
             "room_type": "Entire home/apt",
             "bed_type": "Real Bed",
             "minimum_nights": "2",
@@ -1914,7 +1914,7 @@
                 "Waterfront"
             ],
             "price": {
-                "$numberDecimal": "80.00"
+                "$numberDecimal": "90.00"
             },
             "security_deposit": {
                 "$numberDecimal": "200.00"
@@ -2063,8 +2063,8 @@
         },
         {
             "_id": "10",
-            "name": "Ribeira Charming Duplex",
-            "summary": "Fantastic duplex apartment with three bedrooms, located in the historic area of Porto, Ribeira (Cube)...",
+            "name": "Eiusmod commodo ipsum",
+            "summary": "Eu excepteur ullamco laborum nulla proident.",
             "interaction": "Cot - 10 € / night Dog - € 7,5 / night",
             "house_rules": "Make the house your home...",
             "property_type": "House",
